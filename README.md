@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TerRosales
-- 👀 I’m interested in ...web development and figuring out how to raise my family.
 - 🌱 I’m currently learning ...javascript and getting to know its libraries
 - 💞️ I’m looking to collaborate on ...anything backend or frontend related.
 - 📫 How to reach me ...rtin27411@gmail.
